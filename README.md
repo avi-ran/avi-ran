@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @avi-ran
+- 👀 I’m interested in music and programming
+- 🌱 I’m currently learning Javascript/NodeJS
